@@ -6,6 +6,7 @@ public class EclipseGitTest01 {
 		// TODO 自动生成的方法存根
 		System.out.println("测试");
 		System.out.println("张三修改提交");
+		System.out.println("张三修改222提交");
 		
 		
 
