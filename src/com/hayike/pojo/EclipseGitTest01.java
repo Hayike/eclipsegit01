@@ -7,6 +7,8 @@ public class EclipseGitTest01 {
 		System.out.println("测试");
 		System.out.println("张三修改提交");
 		System.out.println("张三修改222提交");
+		System.out.println("张三修改3333提交");
+		
 		
 		
 
